@@ -1,0 +1,11 @@
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/cucumber/stepDefinitions/CloudWiseHomeStepDefinition.java
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/lib/selenium/base/SeleniumBase.java
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/pageObjects/CloudWiseHomePage.java
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/cucumber/stepDefinitions/AlleCloudWisersStepDefinition.java
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/cucumber/stepDefinitions/Hooks.java
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/pageObjects/PageObjectManager.java
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/cucumber/runner/TestNgTestRunner.java
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/lib/selenium/design/LocatorTypes.java
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/utils/TestContextSetup.java
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/pageObjects/AlleCloudWisersPage.java
+/Users/bharathca/Personal Workspace_TestLeaf/cloudWise-SeleniumAssignment/src/test/java/utils/BrowserInstance.java
